@@ -14,6 +14,9 @@ Flutter Mobile Application (Task 3)
 The system is fully integrated:
 Flutter → FastAPI → Saved ML Model → Prediction
 
+## Video Demo 
+https://youtu.be/u0XJR73kkd8
+
 ## Task 1 — Machine Learning Model (Linear Regression)
 ###  Problem Statement
 
