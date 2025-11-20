@@ -22,6 +22,8 @@ https://youtu.be/u0XJR73kkd8
 
 Social media addiction affects students' mental well-being. How might we monitor the impact social media has on our mental health using machine learning. 
 Using the Students’ Social Media Addiction Dataset, we model the relationship:
+### Mission 
+Destigmatizing  mental health topics in Africa and understanding the consequences that our daily activities have on our mental health. 
 
 Mental_Health_Score ← Addicted_Score
 📊 Dataset
